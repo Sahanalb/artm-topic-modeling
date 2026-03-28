@@ -1,0 +1,292 @@
+{
+  "metrics": {
+    "n_topics": 8,
+    "cv_coherence": 0.4839,
+    "npmi_coherence": -0.0577,
+    "topic_diversity": 0.9104,
+    "semantic_separation": 0.8069,
+    "semantic_validity": 0.625
+  },
+  "topics": [
+    {
+      "topic_id": 0,
+      "label": "Straps",
+      "keywords": [
+        "strings",
+        "strap",
+        "picks",
+        "amp",
+        "guitars",
+        "tune",
+        "fender",
+        "tuning",
+        "tuners",
+        "bass"
+      ],
+      "score": 0.279,
+      "history": [
+        {
+          "iter": 1,
+          "label": "Straps",
+          "score": 0.679
+        },
+        {
+          "iter": 2,
+          "label": "Straps",
+          "score": 0.279
+        },
+        {
+          "iter": 3,
+          "label": "Straps",
+          "score": 0.279
+        }
+      ],
+      "representative_review": "very good strap, but the pick pocket does not hold the picks securely. especially when you take off the guitar for a break. either a pocket closure or a spring loaded clip is needed"
+    },
+    {
+      "topic_id": 1,
+      "label": "Cables",
+      "keywords": [
+        "cables",
+        "mic",
+        "recording",
+        "microphone",
+        "audio",
+        "mixer",
+        "mics",
+        "headphones",
+        "microphones",
+        "set"
+      ],
+      "score": 0.261,
+      "history": [
+        {
+          "iter": 1,
+          "label": "Cables",
+          "score": 0.661
+        },
+        {
+          "iter": 2,
+          "label": "Cables",
+          "score": 0.261
+        },
+        {
+          "iter": 3,
+          "label": "Cables",
+          "score": 0.261
+        }
+      ],
+      "representative_review": "possibly the best quality mic cable i have come across to date in my hunt for reasonably priced cables and gear. for the working musician or home recording man this is great! extremely high quality at this price point and are used by professionals all over southern california and the nation!"
+    },
+    {
+      "topic_id": 2,
+      "label": "Delay pedal",
+      "keywords": [
+        "distortion",
+        "amp",
+        "delay",
+        "overdrive",
+        "joyo",
+        "effect",
+        "reverb",
+        "behringer",
+        "pedal board",
+        "power supply"
+      ],
+      "score": 0.367,
+      "history": [
+        {
+          "iter": 1,
+          "label": "pedals",
+          "score": 0.609
+        },
+        {
+          "iter": 2,
+          "label": "Delay pedal",
+          "score": 0.209
+        },
+        {
+          "iter": 3,
+          "label": "Delay pedal",
+          "score": 0.367
+        }
+      ],
+      "representative_review": "this delay pedal doesnt give you massive distortion, but a nice bit of fuzz. i'm impressed with what you get for the price!"
+    },
+    {
+      "topic_id": 3,
+      "label": "Music stand",
+      "keywords": [
+        "stands",
+        "mic stand",
+        "guitar stand",
+        "stage",
+        "mount",
+        "base",
+        "stable",
+        "adjustable",
+        "tripod",
+        "music stand"
+      ],
+      "score": 0.475,
+      "history": [
+        {
+          "iter": 1,
+          "label": "Music stand",
+          "score": 0.71
+        },
+        {
+          "iter": 2,
+          "label": "mount mic stand",
+          "score": 0.31
+        },
+        {
+          "iter": 3,
+          "label": "Music stand",
+          "score": 0.475
+        }
+      ],
+      "representative_review": "i mounted this on top of my on stage tripod mic stand to hold my small format mixer during gigs. works great"
+    },
+    {
+      "topic_id": 4,
+      "label": "Cleaning guitars",
+      "keywords": [
+        "cloth",
+        "strings",
+        "cleaning",
+        "fretboard",
+        "guitars",
+        "humidity",
+        "polishing",
+        "shine",
+        "apply",
+        "finish"
+      ],
+      "score": 0.428,
+      "history": [
+        {
+          "iter": 1,
+          "label": "Cleaning",
+          "score": 0.676
+        },
+        {
+          "iter": 2,
+          "label": "Cleaning guitars",
+          "score": 0.276
+        },
+        {
+          "iter": 3,
+          "label": "Cleaning guitars",
+          "score": 0.428
+        }
+      ],
+      "representative_review": "lets be honest, it must be pretty hard to mess up a cleaning cloth. it either cleans or it doesn't. this cleans polishes all of my guitars great. just make sure the strings are off so that this doesn't get caught on them. this is a brand i've come to trust."
+    },
+    {
+      "topic_id": 5,
+      "label": "Filters",
+      "keywords": [
+        "filters",
+        "pop filters",
+        "clamp",
+        "microphone",
+        "mic stand",
+        "yeti",
+        "goose neck",
+        "recording",
+        "condenser",
+        "flexible"
+      ],
+      "score": 0.188,
+      "history": [
+        {
+          "iter": 1,
+          "label": "Filters",
+          "score": 0.588
+        },
+        {
+          "iter": 2,
+          "label": "Filters",
+          "score": 0.188
+        },
+        {
+          "iter": 3,
+          "label": "Filters",
+          "score": 0.188
+        }
+      ],
+      "representative_review": "filter works very well and looks professional. only problem i am having is that the clamp seems to work specifically with a mic stand or similar type structure."
+    },
+    {
+      "topic_id": 7,
+      "label": "Bench",
+      "keywords": [
+        "bench",
+        "height",
+        "chair",
+        "comfortable",
+        "stool",
+        "legs",
+        "padding",
+        "foot rest",
+        "adjustable",
+        "piano"
+      ],
+      "score": 0.249,
+      "history": [
+        {
+          "iter": 1,
+          "label": "Bench",
+          "score": 0.649
+        },
+        {
+          "iter": 2,
+          "label": "Bench",
+          "score": 0.249
+        },
+        {
+          "iter": 3,
+          "label": "Bench",
+          "score": 0.249
+        }
+      ],
+      "representative_review": "this bench is well constructed and comfortable to sit on for extended periods. my only complaint is that i wish it had just a little more height adjustment- maybe 1 inch. overall, it is well suited for most unless you are tall or a small child."
+    },
+    {
+      "topic_id": 8,
+      "label": "Dunlop",
+      "keywords": [
+        "finger",
+        "dunlop",
+        "ring",
+        "guitar",
+        "drop floor",
+        "playing",
+        "use metal",
+        "guitar slide",
+        "large hands",
+        "timer"
+      ],
+      "score": 0.374,
+      "history": [
+        {
+          "iter": 1,
+          "label": "Guitar",
+          "score": 0.598
+        },
+        {
+          "iter": 2,
+          "label": "Dunlop",
+          "score": 0.198
+        },
+        {
+          "iter": 3,
+          "label": "Dunlop",
+          "score": 0.374
+        }
+      ],
+      "representative_review": "the dunlop guitar fingerboard kit arrived very quickly and was put to the test immediately. i am pleased with the product. it makes my guitar look new again. i will definitly look into their other products. thanks to amazon for the quick service."
+    }
+  ]
+}

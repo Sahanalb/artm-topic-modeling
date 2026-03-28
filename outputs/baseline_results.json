@@ -1,0 +1,157 @@
+{
+  "model": "BERTopic (baseline)",
+  "metrics": {
+    "n_topics": 9,
+    "cv_coherence": 0.4786,
+    "npmi_coherence": -0.0864,
+    "topic_diversity": 0.9041,
+    "semantic_separation": 0.8249,
+    "semantic_validity": 0.8889
+  },
+  "topics": [
+    {
+      "topic_id": 0,
+      "label": "strings / strap / picks",
+      "keywords": [
+        "strings",
+        "strap",
+        "picks",
+        "amp",
+        "guitars",
+        "tune",
+        "fender",
+        "tuning",
+        "tuners",
+        "bass"
+      ]
+    },
+    {
+      "topic_id": 1,
+      "label": "cables / mic / recording",
+      "keywords": [
+        "cables",
+        "mic",
+        "recording",
+        "microphone",
+        "audio",
+        "mixer",
+        "mics",
+        "headphones",
+        "microphones",
+        "set"
+      ]
+    },
+    {
+      "topic_id": 2,
+      "label": "distortion / amp / delay",
+      "keywords": [
+        "distortion",
+        "amp",
+        "delay",
+        "overdrive",
+        "joyo",
+        "effect",
+        "reverb",
+        "behringer",
+        "pedal board",
+        "power supply"
+      ]
+    },
+    {
+      "topic_id": 3,
+      "label": "stands / mic stand / guitar stand",
+      "keywords": [
+        "stands",
+        "mic stand",
+        "guitar stand",
+        "stage",
+        "mount",
+        "base",
+        "stable",
+        "adjustable",
+        "tripod",
+        "music stand"
+      ]
+    },
+    {
+      "topic_id": 4,
+      "label": "cloth / strings / cleaning",
+      "keywords": [
+        "cloth",
+        "strings",
+        "cleaning",
+        "fretboard",
+        "guitars",
+        "humidity",
+        "polishing",
+        "shine",
+        "apply",
+        "finish"
+      ]
+    },
+    {
+      "topic_id": 5,
+      "label": "filters / pop filters / clamp",
+      "keywords": [
+        "filters",
+        "pop filters",
+        "clamp",
+        "microphone",
+        "mic stand",
+        "yeti",
+        "goose neck",
+        "recording",
+        "condenser",
+        "flexible"
+      ]
+    },
+    {
+      "topic_id": 6,
+      "label": "lights / music stand / ac adapter",
+      "keywords": [
+        "lights",
+        "music stand",
+        "ac adapter",
+        "mighty",
+        "pages",
+        "cord",
+        "clamp",
+        "bulbs",
+        "light bright",
+        "aaa batteries"
+      ]
+    },
+    {
+      "topic_id": 7,
+      "label": "bench / height / chair",
+      "keywords": [
+        "bench",
+        "height",
+        "chair",
+        "comfortable",
+        "stool",
+        "legs",
+        "padding",
+        "foot rest",
+        "adjustable",
+        "piano"
+      ]
+    },
+    {
+      "topic_id": 8,
+      "label": "finger / dunlop / ring",
+      "keywords": [
+        "finger",
+        "dunlop",
+        "ring",
+        "guitar",
+        "drop floor",
+        "playing",
+        "use metal",
+        "guitar slide",
+        "large hands",
+        "timer"
+      ]
+    }
+  ]
+}
