@@ -198,10 +198,10 @@ Output: Θ (topic set with labels)
 If you use this code or paper in your research, please cite:
 
 ```bibtex
-@article{yourname2026artm,
+@article{Sahanalb2026artm,
   title   = {Agentic Retrieval-Augmented Topic Modeling for
              Amazon Musical Instruments Reviews},
-  author  = {Your Full Name},
+  author  = {Sahanalb},
   year    = {2026},
   url     = {https://github.com/Sahanalb/artm-topic-modeling}
 }
